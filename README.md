@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jassar Mahmoud 👋</h1>
 
 <p align="center">
-  Technical Team Lead &amp; Software Architect &nbsp;·&nbsp; Senior .NET Developer &nbsp;·&nbsp; Riyadh, Saudi Arabia
+  Technical Team Lead &amp; Software Architect &nbsp;·&nbsp; Senior .NET Developer &nbsp;·&nbsp; Riyadh, Saudi Arabia &nbsp;·&nbsp; Amman, Jordan
 </p>
 
 <p align="center">
