@@ -47,14 +47,17 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 </p>
 
-### 📚 Learning archive
+### 📚 Continuous learning
 
-Most of my older repositories (2019 – 2022) are hands-on labs from courses on .NET, LINQ, async programming, EF Core, design patterns and API design.
+80+ completed Pluralsight courses since 2018. A few that shaped how I work:
+
+| Area | Courses |
+|---|---|
+| Architecture | Clean Architecture: Patterns, Practices, and Principles · Domain-Driven Design Fundamentals · CQRS in Practice · Microservices: The Big Picture · SOLID Principles for C# Developers · Refactoring for C# Developers · Clean Code |
+| APIs | ASP.NET Core Web API Fundamentals · Designing RESTful Web APIs · Implementing Advanced RESTful Concerns · Documenting an API with OpenAPI / Swagger · Building GraphQL APIs with ASP.NET Core · Building an Async API · Securing ASP.NET Core with OAuth2 and OpenID Connect |
+| Data | EF Core 6 Fundamentals · LINQ Fundamentals · Data Access in C# · C# Design Patterns: Data Access Patterns · Elasticsearch for .NET Developers · SQL Server Tables and Views |
+| C# | C# Fundamentals · C# Interfaces · Concurrent Collections · Defensive Coding · Design Patterns (Strategy, Singleton, Bridge, Command, Chain of Responsibility) · Reflection Best Practices · Testing with xUnit.net |
+| Front-end | Angular Fundamentals · Angular 11 Fundamentals · TypeScript Fundamentals & In-depth · JavaScript series (Objects & Prototypes, Promises, Modules, Generators, Security) · Vue.js Fundamentals |
+
+Most of my older repositories (2019 – 2022) are the hands-on labs from those courses.
 They are kept **archived** for reference — browse them with the [`learning`](https://github.com/jalakhras?tab=repositories&q=topic%3Alearning) topic.
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalakhras&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalakhras&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160">
-</p>
