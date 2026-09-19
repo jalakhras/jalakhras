@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jassar-mahmoud"><img src="https://img.shields.io/badge/LinkedIn-jassar--mahmoud-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@jassar1994"><img src="https://img.shields.io/badge/Medium-%40jassar1994-000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://github.com/jalakhras?tab=repositories"><img src="https://img.shields.io/badge/Repos-59-181717?style=flat&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
@@ -16,6 +17,7 @@
 - 💼 **8+ years** building national-scale enterprise platforms with **ASP.NET Core · ABP Framework · Microservices · DDD / CQRS · Angular**
 - 🏢 Technical Team Lead at **solutions by stc**, Riyadh
 - 📈 On the side: **automated trading systems** — MetaTrader 5 Expert Advisors (MQL5), TradingView tooling and Python market analysis
+- ✍️ I write about .NET and software architecture on [Medium](https://medium.com/@jassar1994)
 - 🎯 Care about clean architecture, well-designed domain models, and evidence-driven decisions
 
 ### 🚀 Featured projects
