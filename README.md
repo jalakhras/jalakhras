@@ -26,6 +26,7 @@
 |---|---|---|
 | [JA-FalconCore-Automated-Trading-Platform](https://github.com/jalakhras/JA-FalconCore-Automated-Trading-Platform) | Modular MT5 Expert Advisor for Nasdaq: isolated strategy engines, structural SL / partial TP / runner management, append-on-close reporting | MQL5 |
 | [tv-scroll-capture](https://github.com/jalakhras/tv-scroll-capture) | Chrome extension (MV3) that stitches an extended, pixel-exact screenshot of a TradingView chart — bilingual EN/AR UI | JavaScript |
+| [image-to-html](https://github.com/jalakhras/image-to-html) | Screenshot → Bootstrap HTML with a CNN+LSTM model (pix2code-based), Gradio demo, weights shipped as a release | Python · Keras |
 | [CourseLibrary](https://github.com/jalakhras/CourseLibrary) | RESTful API built with ASP.NET Core 3.1 — resource design, paging, filtering, HATEOAS | C# |
 | [DesignPatternsInCSharp](https://github.com/jalakhras/DesignPatternsInCSharp) | Adapter, Proxy, Singleton, State and more — sample implementations | C# |
 
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras">
   <img src="https://img.shields.io/badge/MQL5-0E76A8?style=flat" alt="MQL5">
   <img src="https://img.shields.io/badge/TradingView-131722?style=flat&logo=tradingview&logoColor=white" alt="TradingView">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
